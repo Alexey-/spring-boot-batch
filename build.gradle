@@ -64,7 +64,7 @@ dependencies {
     compile 'org.jadira.usertype:usertype.core:3.2.0.GA'
 
     compile 'org.hibernate:hibernate-validator:5.1.+'
-    compile 'org.postgresql:postgresql:9.2-1002-jdbc4'
+    compile 'org.postgresql:postgresql:9.4-1206-jdbc4'
     compile 'c3p0:c3p0:0.9.1.2'
 
 }
